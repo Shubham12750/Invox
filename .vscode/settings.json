@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"iostream": "cpp"
+	},
+	"postman.settings.dotenv-detection-notification-visibility": false
+}
